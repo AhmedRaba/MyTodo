@@ -13,4 +13,6 @@ Technology Stack:
     SharedPreferences: Utilizing SharedPreferences, the app efficiently manages and stores user preferences, offering a personalized and tailored experience.
 
 
-![image](https://github.com/AhmedRaba/MyTodo/assets/83189595/68e56e26-d7a4-40d6-b989-8598dd92f080)
+![image](https://github.com/AhmedRaba/MyTodo/assets/83189595/050ad29e-af9b-4224-91e3-bc6ce81ae34c)
+
+
