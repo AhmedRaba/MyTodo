@@ -11,8 +11,18 @@ Technology Stack:
     Safe Args: Provides type safety for navigation actions, preventing runtime errors and streamlining data transfer between app components.
     ViewModel: Manages UI-related data in a lifecycle-conscious way, allowing data to survive configuration changes such as screen rotations.
     SharedPreferences: Utilizing SharedPreferences, the app efficiently manages and stores user preferences, offering a personalized and tailored experience.
+Screenshots:
 
+ Home Screen: 
+    
+![Webp net-resizeimage](https://github.com/AhmedRaba/MyTodo/assets/83189595/d24b2245-a607-4c62-9a11-de097ea38a5d)
+    
+Add Screen: 
+    
+![Webp net-resizeimage(2)](https://github.com/AhmedRaba/MyTodo/assets/83189595/cc9a830c-9faf-40d6-a2bc-809a59d0f94d)
 
-    ![screenshot_1](https://github.com/AhmedRaba/MyTodo/assets/83189595/3ce36ff1-63b0-4fc3-8301-26c16c790214)
+Update Screen:
+
+![Webp net-resizeimage(1)](https://github.com/AhmedRaba/MyTodo/assets/83189595/e90f58b8-5361-4890-8222-30f70980da8a)
 
 
