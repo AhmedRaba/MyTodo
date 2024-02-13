@@ -11,10 +11,3 @@ Technology Stack:
     Safe Args: Provides type safety for navigation actions, preventing runtime errors and streamlining data transfer between app components.
     ViewModel: Manages UI-related data in a lifecycle-conscious way, allowing data to survive configuration changes such as screen rotations.
     SharedPreferences: Utilizing SharedPreferences, the app efficiently manages and stores user preferences, offering a personalized and tailored experience.
-
-
-
-
-![Screenshot_1](https://github.com/AhmedRaba/MyTodo/assets/83189595/bad26aea-2f82-4b57-8a0a-3e39c5ea32ba)
-
-
